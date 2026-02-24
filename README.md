@@ -2,4 +2,4 @@
 In the Fistful of Frags server browser, the first column displays the server's country code, for entertainment purposes only.
 
 ## Install
-Download the latest version from the Release, then extract and overwrite it to `SteamLibrary\steamapps\common\Fistful of Frags\sdk`.
+Download the latest version from the Release, then extract and overwrite it to `\SteamLibrary\steamapps\common\Fistful of Frags\sdk`.
